@@ -1,6 +1,6 @@
 # MLFV 2.0
 MLFV é um projeto desenvolvido por alunos e professores da UFSM com o propósito de implementar um orquestrador de funções em cadeia. A sigla vem de **Machine Learning Function Virtualization**.
-A primeira versão foi implementada e apresentada como Trabalho de Conclusão de Curso (TCC) do Renan, iniciando o projeto.
+A primeira versão foi implementada e apresentada como Tese de Mestrado do Renan, iniciando o projeto.
 A segunda versão, cujo projeto se encontra, foi a abordagem de colocar toda a implementação em containers, com o propósito de distribuir as tarefas realizadas na cadeia. Essa proposta foi tema do TCC do Lucas.
 No estado atual, estamos desenvolvendo a funcionalidade de fazer o processamento das tarefas na GPU.
 
